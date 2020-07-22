@@ -1,1 +1,1 @@
-many people coordinary
+many coordinary
