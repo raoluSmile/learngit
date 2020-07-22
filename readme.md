@@ -1,3 +1,2 @@
-the first git practice
-
-git is a version controller
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
